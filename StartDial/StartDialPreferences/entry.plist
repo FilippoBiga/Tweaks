@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = StartDialPreferences;
+		cell = PSLinkCell;
+		detail = "StartDialPreferencesListController";
+		icon = "StartDialPreferences.png";
+		isController = 1;
+		label = StartDial;
+	};
+}

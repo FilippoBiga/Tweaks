@@ -1,0 +1,9 @@
+Package: com.filippobiga.callnow
+Name: CallNow
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Quick Call via Activator.
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks

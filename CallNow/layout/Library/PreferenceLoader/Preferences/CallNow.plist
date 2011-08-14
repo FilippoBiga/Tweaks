@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>cell</key>
+		<string>PSLinkCell</string>
+		<key>icon</key>
+		<string>CallNow.png</string>
+		<key>label</key>
+		<string>CallNow</string>
+	</dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Number to call</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.filippobiga.callnow</string>
+			<key>key</key>
+			<string>nameString</string>
+			<key>placeholder</key>
+			<string>Name for Number</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.filippobiga.callnow</string>
+			<key>key</key>
+			<string>numberString</string>
+			<key>placeholder</key>
+			<string>Insert Number</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>1</integer>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>activatorListener</key>
+			<string>com.filippobiga.callnow</string>
+			<key>activatorTitle</key>
+			<string>CallNow</string>
+			<key>bundle</key>
+			<string>LibActivator</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Activation Method</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>1</integer>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>CallNow © 2011 FilippoBiga.</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>CallNow</string>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+Package: com.filippobiga.startdial
+Name: StartDial
+Depends: mobilesubstrate
+Version: 1.4
+Architecture: iphoneos-arm
+Description: Start the Phone App in the view you want
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks

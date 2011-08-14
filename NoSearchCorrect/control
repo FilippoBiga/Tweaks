@@ -1,0 +1,9 @@
+Package: com.filippobiga.nosearchcorrect
+Name: NoSearchCorrect
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable autocorrect in the Safari search field
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks
