@@ -1,0 +1,9 @@
+Package: com.filippobiga.pastiebot
+Name: PastieBot
+Depends: mobilesubstrate
+Version: 1.5
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks

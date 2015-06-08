@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = PlayingBotSettings;
+		cell = PSLinkCell;
+		detail = "PlayingBotSettingsListController";
+		icon = "PlayingBotSettings.png";
+		isController = 1;
+		label = "Nowplaying for Tweetbot";
+	};
+}

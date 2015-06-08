@@ -1,0 +1,9 @@
+Package: com.filippobiga.playingbot
+Name: PlayingBot
+Depends: mobilesubstrate
+Version: 1.5
+Architecture: iphoneos-arm
+Description: Tweet song with Tweetbot.
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks

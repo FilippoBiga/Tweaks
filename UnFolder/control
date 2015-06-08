@@ -1,0 +1,9 @@
+Package: com.filippobiga.unfolder
+Name: UnFolder
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Quickly delete folders from SpringBoard.
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks

@@ -1,0 +1,9 @@
+Package: com.filippobiga.lastpic
+Name: LastPic
+Depends: mobilesubstrate
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Quickly send last photo taken from Messages. 
+Maintainer: FilippoBiga
+Author: FilippoBiga
+Section: Tweaks
